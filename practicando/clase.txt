@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 me encuentro en el lis en clase de Analisis y diseño II
+=======
+me encuentro en el lis en clase de Analisis y diseño de sistemas II junto con nombre-compañero de al lado
+>>>>>>> Stashed changes
